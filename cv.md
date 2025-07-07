@@ -6,7 +6,7 @@
 3. Telegram: [@nabelina](https://t.me/nabelina)
 4. Github: [@nabelina](https://github.com/nabelina)
 # Info about me:
-### I’m a 17-year-old high school student with a passion for learning, especially in English and IT. I'm here to improve my skills, explore new knowledge, and prepare myself for university.
+### *I’m a 17-year-old high school student with a passion for learning, especially in English and IT. I'm here to improve my skills, explore new knowledge, and prepare myself for university.*
 # My skills:
 * Java
 * Python
@@ -20,6 +20,7 @@ function multiply(a, b){
 }
 ```
 # Experience
+***
 # Courses
 * EPAM e-kids JAVA
 * EPAM e-kids python
