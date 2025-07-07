@@ -1,1 +1,1 @@
-https://NABELINA.github.io/rsschool-cv/cv
+https://nabelina.github.io/rsschool-cv/cv
