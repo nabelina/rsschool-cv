@@ -27,7 +27,7 @@ function multiply(a, b){
 # Languages
 * Russian - native
 * English - B2 (According to EPAM english test)
-[test](c:\Users\ak132\OneDrive\Pictures\Screenshots\Screenshot 2025-07-07 231921.png)
+![test](c:\Users\ak132\OneDrive\Pictures\Screenshots\Screenshot 2025-07-07 231921.png)
 * Lithuanin - C1
 * German - A1
 * Swedish - A1
