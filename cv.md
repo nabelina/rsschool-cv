@@ -66,14 +66,13 @@ function multiply(a, b){
 }
 ```
 # Experience
-# Courses
+# Courses:
 * EPAM e-kids JAVA
 * EPAM e-kids python
 * JS / Front-end Pre-school - in progress
-# Languages
+# Languages:
 * Russian - native
 * English - B2 (According to EPAM english test)
-![test](c:\Users\ak132\OneDrive\Pictures\Screenshots\Screenshot 2025-07-07 231921.png "mountains")
 * Lithuanin - C1
 <<<<<<< HEAD
 * Deutch - basics
