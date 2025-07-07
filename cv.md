@@ -3,6 +3,7 @@
 # My contacts:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. Phone number: +37055555555
 2. E-mail: example@gmail.com
 3. Telegram: [@nabelina](https://t.me/nabelina)
@@ -39,6 +40,10 @@ return a * b
 =======
 1. phone number: +37055555555
 2. mail: example@gmail.com
+=======
+1. Phone number: +37055555555
+2. E-mail: example@gmail.com
+>>>>>>> b7bd7c7 (feat:add new photo)
 3. Telegram: [@nabelina](https://t.me/nabelina)
 <<<<<<< HEAD
 4. Github: [@nabelina] (https://github.com/nabelina)
@@ -61,14 +66,14 @@ function multiply(a, b){
 }
 ```
 # Experience
-***
 # Courses
 * EPAM e-kids JAVA
 * EPAM e-kids python
 * JS / Front-end Pre-school - in progress
 # Languages
 * Russian - native
-* English - B2
+* English - B2 (According to EPAM english test)
+[test](c:\Users\ak132\OneDrive\Pictures\Screenshots\Screenshot 2025-07-07 231921.png)
 * Lithuanin - C1
 <<<<<<< HEAD
 * Deutch - basics
