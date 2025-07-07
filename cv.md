@@ -13,3 +13,20 @@
 * C++
 * JS, HTML, CSS - in progress
 * Adobe After Effects
+# Code example:
+```
+function multiply(a, b){
+return a * b
+}
+```
+# Experience
+# Courses:
+* EPAM e-kids JAVA
+* EPAM e-kids python
+* JS / Front-end Pre-school - in progress
+# Languages:
+* Russian - native
+* English - B2 (According to EPAM english test)
+* Lithuanin - C1
+* German - A1
+* Swedish - A1
