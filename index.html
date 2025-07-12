@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>cv</title>
     <link rel="stylesheet" href="style.css" />
-    <link rel="icon" href="C:\Users\ak132\Downloads\download (16).ico" />
+    <link rel="icon" href="./assets/download-_16_.ico" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
 </head>
 <body>
@@ -25,9 +25,11 @@
         </div>
     </header>
     <main class = "main">
-        <section class="section" id="profile">
-            <h1 class="section-title"></h1>
-            <img src="./assets/photo_2025-05-18_03-38-54.jpg" alt="avatar" height="300" weight="200">
+        <section id="profile">
+            <div class="profile-wrapper">
+                <h1 class="section-title-main">Albina Kudriashova</h1>
+                <img src="./assets/photo_2025-05-18_03-38-54.jpg" alt="avatar" />
+            </div>
         </section>
         <div class="main-container">
             <section class="section" id="contacts">
@@ -86,7 +88,15 @@ return a * b
         </div>
     </main>
     <footer class = "footer"> 
-        <div class="container"></div>
+        <div class="footer-container">
+            <p>&copy; 2025 Albina Kudriashova</p>
+            <a href="https://github.com/nabelina" class="github" target="_blank">
+                    <img src="./assets/github.svg" alt="github" class="github-icon" width="35" height="35">
+            </a>
+            <a href="https://rs.school/courses/javascript-ru" class="rss" target="_blank">
+                    <img src="./assets/rss.svg" alt="rss" class="rss-icon" width="72" height="72">
+            </a>
+        </div>
     </footer>
 </body>
 </html>
