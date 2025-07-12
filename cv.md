@@ -27,6 +27,6 @@ return a * b
 # Languages:
 * Russian - native
 * English - B2 (According to EPAM english test)
-* Lithuanin - C1
+* Lithuanian - C1
 * German - A1
 * Swedish - A1
